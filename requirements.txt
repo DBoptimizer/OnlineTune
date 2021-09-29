@@ -1,0 +1,20 @@
+pandas
+numpy
+mysql-connector-python-rf
+psycopg2 #yum install postgresql-devel
+psycopg2-binary
+matplotlib
+pandas
+tensorflow==1.14.0
+psutil
+pyDOE
+scipy
+sklearn
+cython
+scikit-optimize
+GPy
+GPyOpt
+scikit_learn==0.22.2.post1
+ruamel.yaml
+nltk
+
